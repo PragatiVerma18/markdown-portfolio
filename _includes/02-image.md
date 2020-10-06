@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Pragati](https://raw.githubusercontent.com/education/graduation/master/_data/ilumii/octocat.png)
