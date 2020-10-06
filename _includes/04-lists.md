@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# Things I like to do
+
+- Reading Books
+- Building projects
+- Chilling out with friends
+- Drinking Coffee
+- Listening to music
